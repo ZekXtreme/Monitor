@@ -6,7 +6,7 @@ sites:
   - name: GIT Alert
     url: https://alert.zekx.wip.la
   - name: Whoogle
-    url: https://search.shadowhunter.eu.org/
+    url: https://search.shadowhunter.eu.org/?cookies_disabled=1
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
