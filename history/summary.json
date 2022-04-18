@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/alert.zekx.wip.la",
     "slug": "git-alert",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 480,
-    "timeDay": 361,
-    "timeWeek": 480,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 476,
+    "timeDay": 430,
+    "timeWeek": 394,
+    "timeMonth": 476,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2022-04-10": 21
     }
@@ -27,14 +27,14 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 333,
-    "timeDay": 429,
-    "timeWeek": 333,
-    "timeMonth": 333,
-    "timeYear": 333,
+    "time": 335,
+    "timeDay": 358,
+    "timeWeek": 360,
+    "timeMonth": 335,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2022-04-10": 2
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 79,
-    "timeWeek": 159,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "time": 152,
+    "timeDay": 67,
+    "timeWeek": 153,
+    "timeMonth": 152,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2022-04-14": 23
     }
