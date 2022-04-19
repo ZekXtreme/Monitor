@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/alert.zekx.wip.la",
     "slug": "git-alert",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 476,
-    "timeDay": 430,
-    "timeWeek": 394,
-    "timeMonth": 476,
-    "timeYear": 476,
-    "dailyMinutesDown": {
-      "2022-04-10": 21
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 472,
+    "timeDay": 422,
+    "timeWeek": 401,
+    "timeMonth": 472,
+    "timeYear": 472,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Whoogle",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/search.shadowhunter.eu.org",
     "slug": "whoogle",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 335,
-    "timeDay": 358,
-    "timeWeek": 360,
-    "timeMonth": 335,
-    "timeYear": 335,
-    "dailyMinutesDown": {
-      "2022-04-10": 2
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 340,
+    "timeDay": 377,
+    "timeWeek": 352,
+    "timeMonth": 340,
+    "timeYear": 340,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -47,17 +43,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 67,
-    "timeWeek": 153,
-    "timeMonth": 152,
-    "timeYear": 152,
-    "dailyMinutesDown": {
-      "2022-04-14": 23
-    }
+    "time": 148,
+    "timeDay": 86,
+    "timeWeek": 147,
+    "timeMonth": 148,
+    "timeYear": 148,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
