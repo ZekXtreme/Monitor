@@ -1,25 +1,5 @@
 [
   {
-    "name": "GIT Alert",
-    "url": "https://alert.zekx.wip.la",
-    "icon": "https://favicons.githubusercontent.com/alert.zekx.wip.la",
-    "slug": "git-alert",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 413,
-    "timeDay": 336,
-    "timeWeek": 352,
-    "timeMonth": 376,
-    "timeYear": 413,
-    "dailyMinutesDown": {
-      "2022-05-12": 0
-    }
-  },
-  {
     "name": "Whoogle",
     "url": "https://search.shadowhunter.eu.org/?cookies_disabled=1",
     "icon": "https://favicons.githubusercontent.com/search.shadowhunter.eu.org",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 184,
-    "timeWeek": 290,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "time": 306,
+    "timeDay": 171,
+    "timeWeek": 274,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 426,
-    "timeWeek": 242,
-    "timeMonth": 185,
-    "timeYear": 179,
+    "time": 186,
+    "timeDay": 406,
+    "timeWeek": 260,
+    "timeMonth": 193,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   },
   {
