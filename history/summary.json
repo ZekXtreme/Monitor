@@ -4,7 +4,7 @@
     "url": "https://alert.zekx.wip.la",
     "icon": "https://favicons.githubusercontent.com/alert.zekx.wip.la",
     "slug": "git-alert",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 352,
     "timeMonth": 376,
     "timeYear": 413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-12": 0
+    }
   },
   {
     "name": "Whoogle",
