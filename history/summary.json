@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 391,
     "timeDay": 3160,
-    "timeWeek": 646,
+    "timeWeek": 716,
     "timeMonth": 412,
     "timeYear": 391,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 337,
-    "timeWeek": 237,
-    "timeMonth": 217,
-    "timeYear": 191,
-    "dailyMinutesDown": {}
+    "time": 195,
+    "timeDay": 333,
+    "timeWeek": 230,
+    "timeMonth": 221,
+    "timeYear": 195,
+    "dailyMinutesDown": {
+      "2022-05-19": 0
+    }
   },
   {
     "name": "Test Broken Site",
