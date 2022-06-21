@@ -4,18 +4,20 @@
     "url": "https://search.shadowhunter.eu.org/?cookies_disabled=1",
     "icon": "https://favicons.githubusercontent.com/search.shadowhunter.eu.org",
     "slug": "whoogle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 365,
-    "timeWeek": 304,
-    "timeMonth": 281,
-    "timeYear": 330,
-    "dailyMinutesDown": {}
+    "time": 327,
+    "timeDay": 248,
+    "timeWeek": 290,
+    "timeMonth": 277,
+    "timeYear": 327,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Hacker News",
