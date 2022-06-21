@@ -4,19 +4,19 @@
     "url": "https://search.shadowhunter.eu.org/?cookies_disabled=1",
     "icon": "https://favicons.githubusercontent.com/search.shadowhunter.eu.org",
     "slug": "whoogle",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.96%",
     "time": 327,
-    "timeDay": 248,
-    "timeWeek": 290,
-    "timeMonth": 277,
+    "timeDay": 277,
+    "timeWeek": 293,
+    "timeMonth": 278,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 45
     }
   },
   {
