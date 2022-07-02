@@ -6,15 +6,15 @@
     "slug": "whoogle",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "94.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.90%",
-    "time": 316,
-    "timeDay": 252,
-    "timeWeek": 275,
-    "timeMonth": 288,
-    "timeYear": 316,
+    "time": 315,
+    "timeDay": 290,
+    "timeWeek": 274,
+    "timeMonth": 286,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2022-06-30": 76,
       "2022-06-21": 45
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 231,
-    "timeDay": 395,
-    "timeWeek": 222,
-    "timeMonth": 241,
-    "timeYear": 231,
+    "time": 232,
+    "timeDay": 354,
+    "timeWeek": 259,
+    "timeMonth": 250,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2022-05-19": 32
     }
